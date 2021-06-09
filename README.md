@@ -27,18 +27,31 @@ Example files are provided, which can be used to model patients with non-Hodgkin
 A framework was developed in Matlab and Python to simulate and reconstruct PET images using patients modelled with the XCAT phantom. Output files are converted to dicom and necessary header information is applied, such that the images can be viewed using clinical radiology software.
 
 Compatibility note:
-The MATLAB scripts were executed using the following toolboxes and versions:
+
+The MATLAB scripts were executed using the following toolboxes and versions.
+
 MATLAB, version                           9.8
+
 Simulink                                  10.1
+
 Computer Vision Toolbox                   9.2 
+
 Curve Fitting Toolbox                     3.5.11
+
 DSP System Toolbox                        9.10
+
 Deep Learning Toolbox                     14.0
+
 Fuzzy Logic Toolbox                       2.7
+
 Image Processing Toolbox                  11.1
+
 Signal Processing Toolbox                 8.4
+
 Statistics and Machine Learning Toolbox   11.7
+
 Symbolic Math Toolbox                     8.5
 
 Contact:
+
 For questions, recommendations, or feedback, please contact: rfedrigo@student.ubc.ca
