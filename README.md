@@ -1,6 +1,6 @@
-![XCAT GIF](https://user-images.githubusercontent.com/54952340/121407211-ec3e4e80-c913-11eb-84b4-74e7cd7e5743.gif)
-![img](https://user-images.githubusercontent.com/54952340/121406995-b00aee00-c913-11eb-9b93-c6782fcb61f6.png)
 # xcat-sims
+
+![img](https://user-images.githubusercontent.com/54952340/121406995-b00aee00-c913-11eb-9b93-c6782fcb61f6.png)
 
 Summary:
 
@@ -9,6 +9,8 @@ Summary:
 •	A pipeline was developed to simulate and reconstruct PET images from the XCAT phantom, applying header information that is compatible with clinical radiology software
 
 •	As example application, simulated lymphoma patients were modelled using XCAT phantom and can be freely accessed
+
+![XCAT GIF](https://user-images.githubusercontent.com/54952340/121407211-ec3e4e80-c913-11eb-84b4-74e7cd7e5743.gif)
 
 Reference:
 
