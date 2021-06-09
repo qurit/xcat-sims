@@ -1,3 +1,4 @@
+![XCAT GIF](https://user-images.githubusercontent.com/54952340/121407211-ec3e4e80-c913-11eb-84b4-74e7cd7e5743.gif)
 ![img](https://user-images.githubusercontent.com/54952340/121406995-b00aee00-c913-11eb-9b93-c6782fcb61f6.png)
 # xcat-sims
 
