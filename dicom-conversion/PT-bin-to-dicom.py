@@ -48,7 +48,7 @@ name = "SNM1" # patient name/ID
 ################################################
 # OPEN BINARY FILE AND CONVERT TO NUMPY ARRAY
 ################################################
-full_file = myfilename
+full_file = "input/"+myfilename
 out_dir = mydirectory + "../output/" + mynewfolder
 
 # Create a new series from a numpy array
