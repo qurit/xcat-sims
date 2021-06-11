@@ -30,6 +30,14 @@ Example files are provided, which can be used to model patients with non-Hodgkin
 
 A framework was developed in Matlab and Python to simulate and reconstruct PET images using patients modelled with the XCAT phantom. Output files are converted to dicom and necessary header information is applied, such that the images can be viewed using clinical radiology software.
 
+File Sequences:
+
+1. Please ensure that ground truth files generated from XCAT phantom are placed in the input folder.
+2. Run Main_PET_sim_recon from PET_sim_recon-master to perform PET simulation and reconstruction.
+3. Simulated images will appear in dicom-conversion folder.
+4. Run PT-bin-to-dicom to convert images to dicom and populate header information.
+5. Final simulated PET images are shown in output folder.
+
 Compatibility note:
 
 The MATLAB scripts were executed using the following toolboxes and versions.
