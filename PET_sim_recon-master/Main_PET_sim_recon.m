@@ -53,8 +53,8 @@
 % -------------------------------------------------------------------------
 % **** If you use this code in a study, please cite the following paper ***
 % S. Ashrafinia, H. Mohy-ud-din, N. Karakatsanis, A. Jha, M. Casey, D.
-% Kadrmas and A. Rahmim, ìGeneralized PSF modeling for optimized
-% quantitative-task performanceî, Phys. Med. Biol., vol. 62, pp. 5149-5179,
+% Kadrmas and A. Rahmim, ‚ÄúGeneralized PSF modeling for optimized
+% quantitative-task performance‚Äù, Phys. Med. Biol., vol. 62, pp. 5149-5179,
 % 2017.   
 % 
 % -------------------------------------------------------------------------
@@ -595,7 +595,7 @@ MSA_obj = cat(3, MSA_obj, Mean_SIG_ABS(:,:,1));
 
 end
 
-s = strcat('../dicom-conversion/', file, '_R', num2str(c), '.bin')
+s = strcat('../dicom-conversion/input/', file, '_R', num2str(c), '.bin')
 n = num2str(s)
 
 fileD = fopen(n, 'w')
