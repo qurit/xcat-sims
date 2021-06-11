@@ -10,7 +10,7 @@ Summary:
 
 •	As example application, simulated lymphoma patients were modelled using XCAT phantom and can be freely accessed
 
-![XCAT GIF](https://user-images.githubusercontent.com/54952340/121407211-ec3e4e80-c913-11eb-84b4-74e7cd7e5743.gif | width=10)
+![XCAT GIF](https://user-images.githubusercontent.com/54952340/121407211-ec3e4e80-c913-11eb-84b4-74e7cd7e5743.gif width="10")
 
 Reference:
 
