@@ -2,6 +2,9 @@
 
 ![img](https://user-images.githubusercontent.com/54952340/121406995-b00aee00-c913-11eb-9b93-c6782fcb61f6.png)
 
+For any questions, recommendations, or feedback, please contact: rfedrigo@student.ubc.ca
+The upgraded XCAT phantom is available upon request from Dr. Paul Segars: paul.segars@duke.edu and additional information can be accessed at: https://olv.duke.edu/industry-investors/available-technologies/xcat/.
+
 Summary:
 
 •	Novel lymphatic system was defined for the 4D-extended cardiac torso (XCAT) phantom
