@@ -19,7 +19,7 @@ Reference:
 
 Please use the following references if you publish results with help from this software tool:
 
-R. Fedrigo, et al., “Development of the Lymphatic System in the 4D XCAT Phantom for Improved Multimodality Imaging Research”, J. Nuc. Med., vol. 62, publication 113, 2021.
+R. Fedrigo, et al., “Development of scalable lymphatic system in the 4D XCAT phantom: Application to quantitative evaluation of lymphoma PET segmentations", Med. Phys., vol. 49, pp. 6871-6884, 2022.
 
 The Matlab component of this framework is adapted from the PET simulation and image reconstruction tool, as described by:
 
